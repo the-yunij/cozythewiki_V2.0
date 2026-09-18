@@ -5,6 +5,11 @@ body {
 h1 {
   color: #FF8C00;
   text-align: center;
+  border: 2px solid red;
+  border-radius: 8px;
+  padding: 5px;
+  width: 60%;
+  border: 1px solid #4CAF50;
 }
 
 a {
